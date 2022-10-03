@@ -1,6 +1,6 @@
 @font-face {
- font-family: YOUR FONT NAME;
+ font-family: Ephemera Kingsford;
  font-style: normal;
  font-weight: 400;
- src: url(YOUR RAW.GITHACK URL) ;
+ src: url(https://rawcdn.githack.com/lambentmoth/font/tree/main) ;
 }
